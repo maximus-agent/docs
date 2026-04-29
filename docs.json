@@ -53,17 +53,13 @@
             "group": "Features",
             "pages": [
               "features/auto-charting",
-              "features/ai-trade-coaching",
               "features/advanced-order-automation",
-              "features/auto-trade-journal",
-              "features/portfolio-review",
               "features/market-intelligence"
             ]
           },
           {
             "group": "",
             "pages": [
-              "pricing",
               "faq"
             ]
           }
