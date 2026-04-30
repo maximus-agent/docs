@@ -26,10 +26,18 @@
     }
   },
   "navigation": {
+    "global": {
+      "anchors": [
+        {
+          "anchor": "X",
+          "icon": "x-twitter",
+          "href": "https://x.com/MaximusTradeX"
+        }
+      ]
+    },
     "tabs": [
       {
         "tab": "Docs",
-        "landingPage": "introduction",
         "groups": [
           {
             "group": "",
@@ -68,7 +76,12 @@
       },
       {
         "tab": "Legal",
-        "pages": ["privacy-policy"]
+        "groups": [
+          {
+            "group": "Legal",
+            "pages": ["privacy-policy"]
+          }
+        ]
       }
     ]
   },
