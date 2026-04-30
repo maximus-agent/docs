@@ -26,21 +26,12 @@
     }
   },
   "navigation": {
-    "global": {
-      "anchors": [
-        {
-          "anchor": "X",
-          "icon": "x-twitter",
-          "href": "https://x.com/MaximusTradeX"
-        }
-      ]
-    },
     "tabs": [
       {
         "tab": "Docs",
         "groups": [
           {
-            "group": "",
+            "group": "Overview",
             "pages": ["introduction"]
           },
           {
@@ -67,7 +58,7 @@
             ]
           },
           {
-            "group": "",
+            "group": "Support",
             "pages": [
               "faq"
             ]
